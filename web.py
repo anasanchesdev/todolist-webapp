@@ -5,6 +5,7 @@ TODO LIVE: Deploy on live server
 - "pip freeze" mostra no terminal todos as livrarias presentes no código
 - "pip freeze > requirements.txt" salva informações em um arquivo de texto
 - "requirements.txt" informará ao server que livrarias são necessárias para rodar o programa
+- Marcar ammend ao fazer commit de mudanças não significativas
 """
 
 import streamlit as st
